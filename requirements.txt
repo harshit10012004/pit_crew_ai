@@ -1,0 +1,13 @@
+# Pit Crew AI dependencies
+# Tested with Python 3.12.8 on Windows (CPU-only)
+
+crewai>=0.85.0
+ollama>=0.4.0
+arize-phoenix>=5.0.0
+mem0ai>=0.1.0
+chromadb>=0.4.0
+fastapi>=0.115.0
+uvicorn>=0.34.0
+watchdog>=6.0.0
+python-dotenv>=1.0.0
+pydantic>=2.7.0

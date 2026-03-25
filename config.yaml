@@ -1,0 +1,15 @@
+# Pit Crew AI Configuration
+
+ollama:
+  host: http://localhost:11434
+  model: phi3:3.8b               # lightweight, high‑performance CPU model
+  embedding_model: nomic-embed-text
+
+paths:
+  queue: ./queue
+  memory: ./memory
+  traces: ./traces
+  projects: ./projects
+  obsidian_sync: ./obsidian_sync
+
+queue_poll_interval: 5

@@ -1,0 +1,8 @@
+{
+  "task": {
+    "task_id": "test_001",
+    "project": "tyre_nns",
+    "task": "ingest_data",
+    "description": "Explain the role of tyre temperature in F1 performance."
+  },
+  "result": 
